@@ -1,2 +1,5 @@
-print("Hello ABS 1!")
-print("Hello" * 5)
+print("\nWelcome to ABS 1!")
+print("Hello " * 5 + "\n\n")
+print("What's your name?\n")
+yourName = input()
+print("\nHello " + yourName)
